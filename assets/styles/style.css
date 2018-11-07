@@ -1,0 +1,40 @@
+body{
+	background-image: url("../images/bb.gif");
+	background-size:cover;
+	background-repeat: no-repeat;
+	font-family: 'Quicksand', sans-serif;
+	}
+h1 {
+	color: white;
+	font-size: 50px;
+	font-weight: bolder;
+	margin-bottom: 0;
+	}
+h2 {
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	}
+.bio {
+	color: white;
+	font-size: 20px;
+	font-weight: normal;
+	}
+.me {
+	height: 250px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: white;
+	margin-top: 40px;
+
+
+	}
+
+#container {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+}
